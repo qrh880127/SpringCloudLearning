@@ -1,0 +1,4 @@
+spring.application.name=ClusterMonitor
+server.port=7001
+
+eureka.client.serviceUrl.defaultZone=http://localhost:1001/eureka/
